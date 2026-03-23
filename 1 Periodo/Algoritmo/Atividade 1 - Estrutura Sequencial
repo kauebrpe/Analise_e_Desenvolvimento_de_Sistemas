@@ -57,7 +57,7 @@ int main(){
     printf("\nVotos nulos: %.2f%%", vtn); 
     printf("\nVotos validos: %.2f%%", vtv);//%% imprime porcentagem
     
-    //6.Eleicao porcentual
+    //6.Prestacoes
     
     float total_prestacoes, prestacoes_pagas, valor_prestacao, faltando, saldo_devedor; 
     printf("\nMe diga o numero total de prestacoes:"); 
