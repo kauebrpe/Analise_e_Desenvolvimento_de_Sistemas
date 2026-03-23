@@ -30,7 +30,7 @@ int main(){
    //4.Percentual de reajuste
    
     //(Valor Final - Valor Inicial)/Valor Inicial * 100 
-    float sal, perc, aumento, novo_sal; 
+    float sal, perc, novo_sal; 
     printf("\nMe diga o salario atual: "); 
     scanf("%f", &sal); 
     printf("Me diga o valor percentual de ajuste: "); 
